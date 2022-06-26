@@ -1,2 +1,2 @@
 # clog-skeleton
-custom logger with model-view-controller architecture
+custom command-line interface logging tool with model-view-controller architecture
