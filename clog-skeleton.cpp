@@ -1,6 +1,8 @@
 #include <iostream>
+#include <string>
 
 namespace clog {
+
 // data logic
 class model {};
 
