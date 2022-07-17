@@ -1,5 +1,6 @@
 #include <iostream>
 
+namespace clog {
 // data logic
 class model {};
 
@@ -9,6 +10,8 @@ class view {};
 // business logic
 class controller {};
 
+} // namespace clog
+  
 int main () {
 
 }
